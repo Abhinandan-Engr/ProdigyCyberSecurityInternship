@@ -1,0 +1,17 @@
+
+--- Session start: 2025-11-05T20:20:19 ---
+[20:20:26] key='h' code=72
+[20:20:27] key='e' code=69
+[20:20:30] key='l' code=76
+[20:20:30] key='l' code=76
+[20:20:30] key='o' code=79
+[20:20:31] key='space' code=32
+[20:20:32] key='1' code=97
+[20:20:32] key='2' code=98
+[20:20:32] key='3' code=99
+[20:20:33] key='Return' code=13
+[20:20:34] key='BackSpace' code=8
+--- Session end:   2025-11-05T20:20:37 ---
+
+--- Session start: 2025-11-05T20:21:16 ---
+--- Session end:   2025-11-05T20:21:27 ---
